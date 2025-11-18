@@ -15,7 +15,7 @@ const Footer = () => {
         <span className="font-semibold text-blue-600 dark:text-blue-400">
           Mitchel
         </span>
-        @2025 All rights reserved.
+          @2025 All rights reserved.
       </p>
     </motion.footer>
   );
