@@ -13,9 +13,11 @@ const Footer = () => {
       <p className="text-gray-700 dark:text-gray-300 text-sm">
         © {currentYear} Omijie Mitchel Portfolio by{" "}
         <span className="font-semibold text-blue-600 dark:text-blue-400">
-          Mitchel
+          Mitchel$nbsp;
         </span>
+        <br>
           @2025 All rights reserved.
+        </br>
       </p>
     </motion.footer>
   );
