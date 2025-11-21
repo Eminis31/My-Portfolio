@@ -6,7 +6,7 @@ const skills = [
   "Git & GitHub",
   "Cybersecurity Fundamentals",
   "Python",
-  "Linux & Bash",
+  "Linux",
 ];
 
 export default skills;
