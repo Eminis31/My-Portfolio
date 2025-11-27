@@ -17,7 +17,6 @@ const Footer = () => {
         </span>
         .
          All rights reserved.
-      
       </p>
     </motion.footer>
   );
