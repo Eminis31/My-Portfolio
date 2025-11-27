@@ -57,7 +57,7 @@ const ProjectModal = ({ project, onClose }) => {
               rel="noopener noreferrer"
               className="mt-5 inline-block text-center bg-blue-600 hover:bg-blue-700 text-white font-medium px-4 py-2 rounded-md transition"
             >
-             🤟View Project
+             View Project
             </a>
           )}
 
@@ -68,7 +68,7 @@ const ProjectModal = ({ project, onClose }) => {
               rel="noopener noreferrer"
               className="mt-5 inline-block text-amber-50 text-center bg-orange-900 hover:bg-blue-400 hover:text-black font-medium px-4 py-2 rounded-md"
             >
-              🤖 Github Link
+               Github Link
             </a>
           )}
           </div>
