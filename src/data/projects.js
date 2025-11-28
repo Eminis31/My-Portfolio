@@ -32,7 +32,7 @@ const projects = [
       "An IP Checker tool that allows users to look up information about an IP address, including its location, ISP, and other relevant details.",
     tech: ["HTML", "PYTHON", "CSS"],
     link: "https://ip-info-finder-beige.vercel.app", //change this to urs
-    github: "https://github.com/Oniye-cloud/ip-info-finder.git",
+    github: "#",
   },
   {
     id: 4,
